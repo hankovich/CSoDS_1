@@ -8,7 +8,7 @@ namespace VigenereCipher
 {
     public static class Utils
     {
-        public static string RemoveNonAlphabetChars(string text, string charset)
+        public static string RemoveNonAlphabetChars(string text, string charset) 
         {
             string uppertext = string.Concat(text.Select(char.ToUpperInvariant));
             return

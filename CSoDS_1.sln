@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{EBE05B16-2D6A-41A3-B537-8C3F2695827C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipherTests", "VigenereCipherTests\VigenereCipherTests.csproj", "{1D075415-3035-4D79-B3A2-5B8CB2809DD5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereUI", "VigenereUI\VigenereUI.csproj", "{BEF1F804-D22A-4BEE-A344-E4B8E7ADA5BC}"
 EndProject
@@ -21,10 +19,6 @@ Global
 		{EBE05B16-2D6A-41A3-B537-8C3F2695827C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE05B16-2D6A-41A3-B537-8C3F2695827C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE05B16-2D6A-41A3-B537-8C3F2695827C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D075415-3035-4D79-B3A2-5B8CB2809DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D075415-3035-4D79-B3A2-5B8CB2809DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D075415-3035-4D79-B3A2-5B8CB2809DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D075415-3035-4D79-B3A2-5B8CB2809DD5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BEF1F804-D22A-4BEE-A344-E4B8E7ADA5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEF1F804-D22A-4BEE-A344-E4B8E7ADA5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF1F804-D22A-4BEE-A344-E4B8E7ADA5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
